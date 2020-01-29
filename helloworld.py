@@ -4,7 +4,7 @@ def helloworld():
 def Addition(x, y):
     return x + y 
 
-def Substract(x ,y):
+def Subtract(x ,y):
     return x - y
 
 helloworld()
